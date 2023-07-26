@@ -81,6 +81,9 @@ nav ul li a {
   border-radius: 10px;
   height: 100px;
 }
+.thumb img:hover {
+  opacity: 0.8;
+}
 .conteudo {
   max-width: 400px;
   display: flex;
